@@ -1,0 +1,24 @@
+{
+  "name": "gulp-coffee-comments",
+  "version": "1.0.0",
+  "description": "Comments in CoffeeScript Compiler output",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yivo/gulp-coffee-comments.git"
+  },
+  "author": "Yaroslav Konoplov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yivo/gulp-coffee-comments/issues"
+  },
+  "homepage": "https://github.com/yivo/gulp-coffee-comments",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "gulp": "^3.8.11",
+    "through2": "^0.6.3"
+  }
+}
